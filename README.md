@@ -37,7 +37,7 @@ A public blockchain structure for secure storage, retrieval, and analysis of tra
 
 ### Relavant Documents 
 
-* [Better Readme](https://github.com/hemani-gajjar/transaction-system/blob/main/README.pdf)
+* [Better Readme](https://docs.google.com/document/d/1YpEpInGWa_vDUxZNX3z81Kc8JNtiLQf5JAOQml1_ifM/edit?usp=sharing)
 
 
 ## Execution Steps
@@ -105,7 +105,7 @@ timestamp, previous block hash, and merkle root.
 - After Execution of above steps ( the blockchain) 
 - Implement the database
 - Store the data (transactions) in the database 
-- Run the required queries (Refer [here](https://github.com/hemani-gajjar/transaction-system/blob/main/README.pdf) for a more detailed version)
+- Run the required queries (Refer [here](https://docs.google.com/document/d/1YpEpInGWa_vDUxZNX3z81Kc8JNtiLQf5JAOQml1_ifM/edit?usp=sharing) for a more detailed version)
 
 
 ## Technologies Used
